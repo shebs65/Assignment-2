@@ -1,0 +1,9 @@
+1a) true
+1b) true
+c) false
+d) false
+e) false
+f) true
+g) false
+
+2) These two statements behave differently. The first statement asks karel if he can pick up a thing, and if he can to turn right, and if not to turn left. Ststement 2 is the opposite, asking karel if he can pick up a thing, if so turning left and if not turning right.
